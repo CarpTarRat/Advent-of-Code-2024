@@ -1,2 +1,2 @@
-# Neural-Network-MNIST
-Simple neural network in only python
+# Advent of Code 2024 solutions
+Not optimised
